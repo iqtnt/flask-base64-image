@@ -20,4 +20,3 @@ git clone https://github.com/yourusername/flask-base64-image.git
 cd flask-base64-image
 pip install Flask
 python app.py
-ذذذ
