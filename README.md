@@ -13,8 +13,7 @@ Paste your Base64 text, preview the resulting image, and download it with a rand
 - Python 3.9+
 - Flask
 
-## Usage
-1. Clone the repository:
+## Install
 ```bash
 git clone https://github.com/yourusername/flask-base64-image.git
 cd flask-base64-image
